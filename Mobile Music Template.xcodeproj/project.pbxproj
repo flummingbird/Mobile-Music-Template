@@ -470,7 +470,7 @@
 				INFOPLIST_FILE = "Mobile Music Template/Mobile Music Template-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				USER_HEADER_SEARCH_PATHS = "../libpd/**";
+				USER_HEADER_SEARCH_PATHS = "libpd/**";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -483,7 +483,7 @@
 				INFOPLIST_FILE = "Mobile Music Template/Mobile Music Template-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				USER_HEADER_SEARCH_PATHS = "../libpd/**";
+				USER_HEADER_SEARCH_PATHS = "libpd/**";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
